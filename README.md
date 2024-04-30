@@ -1,2 +1,1 @@
-# oxygen-base-theme-plugin-override
-Base Theme to avoid conflicts with Oxygen Builder, but with added theme plugin override support
+Simple theme by BBG to make life easier: Simply upload this as a theme and enable it in WordPress when using Oxygen. As Oxygen doesn't use themes or even loads them on the frontend - so this affects nothing, it just avoids the potential conflicts of non-active themes updating and breaking the site. The original version does not have the theme plugin template override. which can found here: [https://github.com/BuiltByGo/oxygen-base-theme-plugin-override](https://github.com/BuiltByGo/oxygen-base-theme/)
