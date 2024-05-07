@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: WooCommerce Boodil Payments
+ * Plugin Name: Oxygen Base Theme Plugin Override
  * Plugin URI: https://github.com/BuiltByGo/oxygen-template-override-plugin
  * Description: Code to activate template overrides whilst using Oxygen
  * Author: BuiltByGo
  * Author URI: https://builtbygo.com
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: oxygen-base-theme-plugin-override
  */
 
